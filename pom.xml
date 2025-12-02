@@ -15,7 +15,7 @@
         <!-- SonarQube server URL -->
         <sonar.host.url>http://localhost:9000</sonar.host.url>
         <!-- Authentication token -->
-        <sonar.login>your_sonarqube_token</sonar.login>
+        <sonar.login>squ_4321c3e1475ec59d054ddf17307cfed45014a92f</sonar.login>
     </properties>
 
     <dependencies>
