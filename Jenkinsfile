@@ -3,8 +3,8 @@ pipeline {
 
     tools {
         // Use Maven installed in Jenkins
-        maven 'Maven_3.8.6'
-        jdk 'jdk17'
+        maven 'Maven' //'Maven_3.8.6'
+        jdk   'jdk'  //'jdk17'
     }
 
     environment {
